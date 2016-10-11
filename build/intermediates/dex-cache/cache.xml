@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d865e141827d4f1d997ad41ba1ed7271cd0f0abe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_d0b0c2d14ce767fdbec0696c0ad8f1aeb27af7a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_149dde21eeba9c1dca5ced2d89096aac4fc76505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6ec39c88057f2730a82a72c0720a86652162fb77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75820f58634e846bc6bc9c6d17d3a1533296d2ef">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4cf462ffd1e6c63ce4dd779ce9bddad7eccff27b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_137238b50deafb8acd58db1e788908c72331241c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5cc4b4e12077075311b2ed38fff21c53a20df35a">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1167baff6f3df529a4c1ca8e4405460e8c46b43a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CalebLalonde/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/CalebLalonde/AndroidStudioProjects/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_dca2256cb9d51b920c98b8c32936cffd8a097bbc/classes.dex" />
+    </item>
+
+</items>
